@@ -124,3 +124,5 @@ Aunque ahora estamos trabajando sólos, lo lógico es solicitar los últimos cam
 
 > git push origin main
 * En documentos anteriores a 2021, se puede var la rama principal referenciada como "master" en vez de "main"
+
+Isaac Valdespino(Invencible)
